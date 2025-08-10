@@ -18,3 +18,23 @@
 - HTTPs
 - Tree Shaking - remove unused code
 - Different build for dev and prod bundles
+
+# Food
+/**
+ * Header
+ *  - Logo *  - Nav Items
+ * Body
+ *  - Search
+ *  - RestaurantContainer
+ *   - RestaurantCard
+ * Footer
+ *  - Copyright
+ *  - Links
+ *  - Address
+ *  - Contact
+*/ 
+
+# React Hooks
+(Normal JS utility functions)
+- useState() - Superpowerful State Variable in react
+- useEffect()
